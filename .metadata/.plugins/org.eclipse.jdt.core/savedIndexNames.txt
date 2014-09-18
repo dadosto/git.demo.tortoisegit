@@ -1,0 +1,16 @@
+INDEX VERSION 1.126+C:\data\git-learn\.metadata\.plugins\org.eclipse.jdt.core
+20153681.index
+2562910245.index
+2459616520.index
+875221200.index
+2107404463.index
+2252962136.index
+3753958025.index
+535115892.index
+760702982.index
+3470817445.index
+2649285205.index
+1723477545.index
+1364771798.index
+1786704640.index
+286658268.index
